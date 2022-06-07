@@ -1,4 +1,0 @@
-repository "COF@VinnieTheShadow@cloud"
-  path "/"
-    br "/main"
-    co "/main"
