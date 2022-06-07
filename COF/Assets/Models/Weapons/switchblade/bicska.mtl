@@ -1,0 +1,46 @@
+# Blender MTL File: 'bicska.blend'
+# Material Count: 4
+
+newmtl Material.001
+Ns 556.531006
+Ka 0.790909 0.790909 0.790909
+Kd 0.727843 0.800000 0.054060
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\asd\\COF\\Assets\\Textures\\Metal036_1K-PNG\\Metal036_1K_des.png
+
+newmtl fogo
+Ns 470.101235
+Ka 0.640909 0.640909 0.640909
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\asd\\COF\\Assets\\Textures\\Metal028_1K-PNG\\Metal028_1K_Color.png
+
+newmtl penge
+Ns 423.985539
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\asd\\COF\\Assets\\Textures\\Metal010_1K-PNG\\Metal010_1K_Color.png
+
+newmtl rece
+Ns 304.661138
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.200823 0.677447
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:\\Users\\asd\\COF\\Assets\\Textures\\crisscross\\7659-v8.jpg
