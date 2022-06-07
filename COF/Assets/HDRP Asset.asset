@@ -150,7 +150,8 @@ MonoBehaviour:
       isFptlEnabled: 0
   m_RenderPipelineResources: {fileID: 11400000, guid: 3ce144cff5783da45aa5d4fdc2da14b7,
     type: 2}
-  m_RenderPipelineRayTracingResources: {fileID: 0}
+  m_RenderPipelineRayTracingResources: {fileID: 11400000, guid: ba6e7f30e5cffc249a8bf7ee5756c196,
+    type: 2}
   m_DefaultVolumeProfile: {fileID: 11400000, guid: 5ca1e2cfa83d94546ab61e6c163407de,
     type: 2}
   m_LensAttenuation: 1
@@ -249,7 +250,7 @@ MonoBehaviour:
     supportDitheringCrossFade: 1
     supportTerrainHole: 0
     supportProbeVolume: 0
-    supportRayTracing: 0
+    supportRayTracing: 1
     supportedRayTracingMode: 3
     probeVolumeSettings:
       atlasResolution: 128
@@ -442,7 +443,9 @@ MonoBehaviour:
   availableMaterialQualityLevels: -1
   m_DefaultMaterialQualityLevel: 4
   diffusionProfileSettings: {fileID: 0}
-  diffusionProfileSettingsList: []
+  diffusionProfileSettingsList:
+  - {fileID: 11400000, guid: 47a8fdc40927d6b42bb2f11a32f2a900, type: 2}
+  - {fileID: 11400000, guid: 9d2d7ff4fa40846499b4b56780157fbb, type: 2}
   beforeTransparentCustomPostProcesses: []
   beforeTAACustomPostProcesses: []
   beforePostProcessCustomPostProcesses: []
