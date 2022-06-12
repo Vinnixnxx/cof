@@ -229,11 +229,11 @@ MonoBehaviour:
     m_Value: 1
   adaptationSpeedDarkToLight:
     m_OverrideState: 1
-    m_Value: 3
+    m_Value: 2.5
     min: 0.001
   adaptationSpeedLightToDark:
     m_OverrideState: 1
-    m_Value: 3
+    m_Value: 2.5
     min: 0.001
   weightTextureMask:
     m_OverrideState: 0
@@ -406,7 +406,7 @@ MonoBehaviour:
   m_AdvancedMode: 0
   maxShadowDistance:
     m_OverrideState: 1
-    m_Value: 500
+    m_Value: 500.5
     min: 0
   directionalTransmissionMultiplier:
     m_OverrideState: 1
