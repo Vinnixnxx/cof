@@ -42,6 +42,12 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Wall_Plaster1.blood
+    second: {fileID: -7852733799191207237, guid: 6f97ffc9689e729459d25b92629d7e06,
+      type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Wall_Plaster2
     second: {fileID: 2100000, guid: 06c5bc53195d92947a698fe3b2957721, type: 2}
   - first:

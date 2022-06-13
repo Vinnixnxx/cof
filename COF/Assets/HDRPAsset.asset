@@ -203,7 +203,7 @@ MonoBehaviour:
   m_RenderPipelineSettings:
     supportShadowMask: 1
     supportSSR: 1
-    supportSSRTransparent: 0
+    supportSSRTransparent: 1
     supportSSAO: 1
     supportSSGI: 1
     supportSubsurfaceScattering: 1
@@ -263,7 +263,7 @@ MonoBehaviour:
       planarReflectionAtlasSize: 1024
       reflectionProbeCacheSize: 64
       reflectionCubemapSize: 256
-      reflectionCacheCompressed: 0
+      reflectionCacheCompressed: 1
       reflectionProbeFormat: 74
       skyReflectionSize: 256
       skyLightingOverrideLayerMask:
@@ -327,7 +327,7 @@ MonoBehaviour:
       forceResolution: 0
       forcedPercentage: 100
     lowresTransparentSettings:
-      enabled: 1
+      enabled: 0
       checkerboardDepthBuffer: 1
       upsampleType: 1
     xrSettings:

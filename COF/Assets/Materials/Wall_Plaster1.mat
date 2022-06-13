@@ -153,7 +153,7 @@ Material:
     - _DepthOffsetEnable: 0
     - _DetailAlbedoScale: 0
     - _DetailNormalScale: 0.1
-    - _DetailSmoothnessScale: 0
+    - _DetailSmoothnessScale: 2
     - _DiffusionProfile: 0
     - _DiffusionProfileHash: 0
     - _DisplacementLockObjectScale: 1
@@ -201,7 +201,7 @@ Material:
     - _ReceivesSSRTransparent: 0
     - _RefractionModel: 0
     - _Smoothness: 0.5
-    - _SmoothnessRemapMax: 0.4272796
+    - _SmoothnessRemapMax: 0.4689897
     - _SmoothnessRemapMin: 0
     - _SpecularAAScreenSpaceVariance: 0.1
     - _SpecularAAThreshold: 0.2
