@@ -932,7 +932,11 @@ GameObject:
   - component: {fileID: 3571754151631685631}
   - component: {fileID: 3571754151631685630}
   - component: {fileID: 3571754151631685626}
+<<<<<<< Updated upstream
   - component: {fileID: 7023599813632347126}
+=======
+  - component: {fileID: 4046440647631089501}
+>>>>>>> Stashed changes
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1035,18 +1039,30 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hpText: {fileID: 3571754152226037190}
+<<<<<<< Updated upstream
 --- !u!225 &7023599813632347126
 CanvasGroup:
+=======
+--- !u!114 &4046440647631089501
+MonoBehaviour:
+>>>>>>> Stashed changes
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3571754151631685629}
   m_Enabled: 1
+<<<<<<< Updated upstream
   m_Alpha: 1
   m_Interactable: 1
   m_BlocksRaycasts: 1
   m_IgnoreParentGroups: 0
+=======
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a564686ecf64884d83c410873555753, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> Stashed changes
 --- !u!1 &3571754151694072673
 GameObject:
   m_ObjectHideFlags: 0

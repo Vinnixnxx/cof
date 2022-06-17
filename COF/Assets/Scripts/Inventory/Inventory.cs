@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class Inventory : MonoBehaviour
 {
@@ -10,7 +11,12 @@ public class Inventory : MonoBehaviour
     [SerializeField] Transform slots;
     [SerializeField]Transform slotItemTemp;
     [SerializeField] GameObject[] itemsObjects = new GameObject[1];
+<<<<<<< Updated upstream
    
+=======
+    [SerializeField] Image crosshairDefault;
+    [SerializeField] Image crosshairUse;
+>>>>>>> Stashed changes
 
     private void Update()
     {
@@ -46,6 +52,11 @@ public class Inventory : MonoBehaviour
         return null;
     }
 
+<<<<<<< Updated upstream
+=======
+ 
+
+>>>>>>> Stashed changes
     private void Awake()
     {
         int i = 0;
@@ -62,4 +73,18 @@ public class Inventory : MonoBehaviour
         return itemsObjects[id];
     }
 
+<<<<<<< Updated upstream
+=======
+    public void setUseCrosshair() {
+        crosshairDefault.enabled = false;
+        crosshairUse.enabled = true;
+    }
+
+    public void setDefaultCrosshair()
+    {
+        crosshairDefault.enabled = true;
+        crosshairUse.enabled = false;
+    }
+
+>>>>>>> Stashed changes
 }
